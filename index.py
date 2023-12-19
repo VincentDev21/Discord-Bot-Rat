@@ -546,4 +546,4 @@ async def print_pressed_key(channel):
             else:
                 output += event.name
     
-bot.run("NDY0ODg2Mjc4MzAzOTA3ODUw.GwMvF4.Mb68lLRE4z1H-yzErF48MwcpGKF4XCmQBk-7TQ")
+bot.run("REPLACE_WITH_YOUR_TOKEN")
