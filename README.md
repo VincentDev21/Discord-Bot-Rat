@@ -1,7 +1,4 @@
 #  Discord-Bot-Rat
-
-# Overview
-
 Discord Remote Administration Tool that is fully written in Python3.
 
 This RAT is controlled using Discord with 15 commands and more coming.
