@@ -1,0 +1,7 @@
+discord.py
+pyautogui
+opencv-python
+keyboard
+psutil
+pywin32
+pyaudio
