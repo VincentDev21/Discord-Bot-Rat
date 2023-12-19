@@ -1,13 +1,13 @@
 #  Discord-Bot-Rat
 
-## Overview
+# Overview
 
 Discord Remote Administration Tool that is fully written in Python3.
 
 This RAT is controlled using Discord with 15 commands and more coming.
-## Disclaimer:
+# Disclaimer:
 This tool is for educational use only, the author will not be held responsible for any misuse of this tool.
-## Commands
+# Commands
 ```
 !cd [new_path]: Changes the current working directory. If no argument is provided, it defaults to the user's home directory.
 !download [file_path]: Sends a file as a Discord attachment. Assumes the file is in the current working directory.
@@ -27,7 +27,7 @@ This tool is for educational use only, the author will not be held responsible f
 !log [on|off|delete] [channel_name]: Starts or stops logging key presses to a specific channel.
 ```
 
-## Instructions:
+# Instructions:
 1. Clone/Download the current repository "https://github.com/VincentDev21/Discord-Bot-Rat"
 2. Install Requirements
   ```
@@ -37,7 +37,7 @@ This tool is for educational use only, the author will not be held responsible f
   ```
   python -u index.py
   ```
-# Optional
+## Optional
 You can turn the python file into a exe by following these simple steps
 1. install the pyinstaller by running this command:
 ```
@@ -47,7 +47,7 @@ pip install pyinstaller
 ```
 pyinstaller --onefile index.py
 ```
-## To Do
+# To Do
 
 In the future, I may consider implementing the following features:
 - Re-write code to make code more readable
